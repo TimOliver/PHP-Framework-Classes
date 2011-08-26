@@ -61,7 +61,7 @@ array(
 'bz2'	=>	'application/x-bzip2',
 'c'	=>	'text/plain',
 'c'	=>	'text/x-c',
-'c++' 	'text/plain',
+'c++' =>	'text/plain',
 'cat'	=>	'application/vnd.ms-pki.seccat',
 'cc'	=>	'text/plain',
 'cc'	=>	'text/x-c',
