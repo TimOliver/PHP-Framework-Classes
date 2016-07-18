@@ -2,6 +2,7 @@
 By Tim Oliver
 
 http://github.com/TimOliver/PHP-Framework-Classes/
+
 ---
 
 This is a collection of classes that I have developed over
