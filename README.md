@@ -1,16 +1,17 @@
-PHP Framework Class Collection
+## PHP Framework Class Collection
 By Tim Oliver
 
 http://github.com/TimOliver/PHP-Framework-Classes/
-===========================================================
+---
 
 This is a collection of classes that I have developed over
 the years to help me out with some of the more boilerplate
 PHP programming tasks.
 
-All of the code is free-to-use and is licensed under the MIT agreement.
+All of the code is free-to-use and is released under the MIT license.
+It has been provided with no guarantee of support or future development.
 
-===========================================================
+---
 
 Copyright (C) 2011 by Tim Oliver
 
